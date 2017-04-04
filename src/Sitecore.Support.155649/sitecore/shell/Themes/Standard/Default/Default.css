@@ -1904,9 +1904,9 @@ a.scHyperlinkButton {
 }
 
 .scStretchAbsolute {
- /*SUPPORT Fix 155649*/
-    /* position: absolute !important; */
- /*SUPPORT Fix 155649*/
+ 
+  position: absolute !important;
+ 
   top: 0;
   bottom: 0;
   left: 0;

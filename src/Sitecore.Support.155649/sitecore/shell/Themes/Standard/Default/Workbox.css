@@ -25,6 +25,7 @@ form {
     /*SUPPORT Fix 155649*/
     /*margin-top: 80px;*/
     height:100%;
+    position: unset !important;
      /*SUPPORT Fix 155649*/
     overflow: scroll;
     padding: 15px;

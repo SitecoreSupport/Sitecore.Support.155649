@@ -9,6 +9,7 @@ form {
 
 #Grid {
   table-layout: fixed;
+  height:100%;
 }
 
 #Grid2 {
@@ -23,7 +24,7 @@ form {
 .scWorkboxContentContainer {
     /*SUPPORT Fix 155649*/
     /*margin-top: 80px;*/
-    width:100%;
+    height:100%;
      /*SUPPORT Fix 155649*/
     overflow: scroll;
     padding: 15px;

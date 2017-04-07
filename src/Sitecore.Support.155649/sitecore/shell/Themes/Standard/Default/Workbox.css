@@ -26,6 +26,8 @@ form {
     /*margin-top: 80px;*/
     height:100%;
     position: unset !important;
+    /*FOR IE11*/
+    position: static !important;
      /*SUPPORT Fix 155649*/
     overflow: scroll;
     padding: 15px;
